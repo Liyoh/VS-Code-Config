@@ -32,7 +32,6 @@
         "wxml": "html"
     },
     "minapp-vscode.disableAutoConfig": true,
-    "editor.fontSize": 16,
     "[typescript]": {
         "editor.defaultFormatter": "vscode.typescript-language-features"
     },
@@ -128,4 +127,6 @@
             ]
         },
     ],
+    "editor.fontSize": 15,
+    "editor.fontFamily": "Monaco, 'Courier New', monospace",
 }
