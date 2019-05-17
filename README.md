@@ -1,9 +1,25 @@
-## 我的Vscode 配置
+## Config description
 
-### 1. vim配置在 vscode vim.json文件中
+### 一、Windows 10 （1809）
 
-### 2. Monaco.ttf是Mac上很漂亮的字体，推荐编程使用，win10安装只需要下载，右键-> 为所有用户安装，然后设置字体（最新版本中，vscode vim .json 有配置文字的代码）
+#### 1. Cmder-Config
 
-### 3. 另外发现了mononoki字体，放到了zip里，也可以使用，很漂亮
+>  `Windows10` 下的**cmder**终端工具中的配置文件
 
-### 4. ConEmu.xml文件是cmder的配置文件，cmder设置为mononoki的字体
+依赖：Module-Font 中的mononki
+
+#### 2. Module-Font
+
+> `Windows10`开发环境搭建中的漂亮字体
+
+| 字体名称 |       用途        |          样式          |  来源  |
+| :------: | :---------------: | :--------------------: | :----: |
+|  Monaco  | VsCode和JB公司IDE |  ![](/img/Monaco.png)  | MacOS  |
+| Mononoki |       cmder       | ![](/img/mononoki.png) | GitHub |
+
+
+
+#### 3. VsCode-Config
+
+> `Windows10`下的VsCode的配置。另外包含了**Vim插件**的配置
+
