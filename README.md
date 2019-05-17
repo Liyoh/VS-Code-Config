@@ -15,7 +15,7 @@
 | 字体名称 |       用途        |          样式          |  来源  |
 | :------: | :---------------: | :--------------------: | :----: |
 |  Monaco  | VsCode和JB公司IDE |  ![](/img/Monaco.png)  | MacOS  |
-| Mononoki |       cmder       | ![](/img/mononoki.png) | GitHub |
+| Mononoki |       cmder       | ![](/img/Mononoki.png) | GitHub |
 
 
 
