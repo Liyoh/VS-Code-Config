@@ -8,6 +8,8 @@
 
 依赖：Module-Font 中的mononki
 
+**现在不想用cmder了，卡的一批，目前1809正式版没有出新的终端工具，因此使用terminus替代**
+
 #### 2. Module-Font
 
 > `Windows10`开发环境搭建中的漂亮字体
